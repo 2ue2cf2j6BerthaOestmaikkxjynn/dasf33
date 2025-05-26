@@ -5,3 +5,4 @@ Improve performance [5ou6Ue] line 9.1
 Improve performance [5ou6Ue] line 9.3
 Add test case for W [7irHf0] line 11.1
 Add feature for X [CAM2i7] line 12.1
+Update documentation [OeAO5I] line 13.2
